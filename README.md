@@ -20,6 +20,12 @@ Script en bash que automatiza la instalación completa de WordPress sobre un ser
 - Conexión a internet
 - Permisos sudo
 
+## Credenciales
+DB_NAME="wordpress"
+DB_USER="wpuser"
+DB_PASS="TuPasswordSegura123"
+
+
 ## 📝 Uso
 
 1. Clona este repositorio:
@@ -27,3 +33,6 @@ Script en bash que automatiza la instalación completa de WordPress sobre un ser
 ```bash
 git clone https://github.com/tuusuario/wordpress-auto-installer.git
 cd wordpress-auto-installer
+
+
+
